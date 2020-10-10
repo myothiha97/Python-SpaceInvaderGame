@@ -28,7 +28,7 @@ pip install -r requirements.txt
 * The enemy ship respawn whenever it get hits by player
 
 > The enemy respawn height will be maximum of 50-150.
-> You can only shoot bullet only one time before the bullet hit the wall.
+> You can shoot only one bullet before the bullet hit the wall.
 
 ### Key Bindings
 * Left and Right arrow keys for left and right movement
