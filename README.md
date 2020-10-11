@@ -1,7 +1,6 @@
 # Python-SpaceInvaderGame
 
-![Game Logo]
-(logo_img.png)
+![Game Logo](logo_img.png)
 
 ## Require Python3.8 or above
 
